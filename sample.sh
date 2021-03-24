@@ -1,6 +1,6 @@
 #!/bin/bash
 a=siva
-b=siva
+b=teja
 if [ $a == $b ]
 then
 	echo "a is equal to b"
